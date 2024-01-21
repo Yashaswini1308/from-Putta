@@ -10,3 +10,7 @@ The chicken is deep-fried results in a **crispy  coating**, and **juicy meat** c
 1. Chicken Popcorn
 2. Peri Peri Chicken Strips
 3. Chicken Wings
+
+- places to visit near the restaurant
+     * Mozingo lake
+     * The Hangar Entertainment center    

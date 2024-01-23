@@ -14,3 +14,5 @@ The chicken is deep-fried results in a **crispy  coating**, and **juicy meat** c
 - places to visit near the restaurant
      * Mozingo lake
      * The Hangar Entertainment center    
+
+![MyMedia]-https://vscode.dev/github/Yashaswini1308/from-Putta/blob/main/MyMedia.md

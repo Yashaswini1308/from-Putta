@@ -23,3 +23,21 @@ The table below shows reccmmendations for books
 >You have within you right now, everything you need to deal with whatever the world can throw at you - *Vikas swarup*
 >
 >Your time is limited, don't waste it living someone else's life - *steve jobs*
+
+---
+### Code Fencing
+
+How to use Python to merge list of lists
+
+~~~
+def merge(*args, missing_val = None):
+  max_length = max([len(lst) for lst in args])
+  out_list = []
+
+  for i in range(max_length):
+    out_list.append([args[k][i] if i < len(args[k]) else missing_val for k in range(len(args))])
+
+  return out_list
+~~~
+> https://stackoverflow.com/questions/716477/join-list-of-lists-in-python
+> Quick link for code snippet: https://code.pieces.app/collections/python

@@ -39,5 +39,5 @@ def merge(*args, missing_val = None):
 
   return out_list
 ~~~
-> https://stackoverflow.com/questions/716477/join-list-of-lists-in-python
-> Quick link for code snippet: https://code.pieces.app/collections/python
+
+> Quick link for code snippet(Check snippet 8): https://code.pieces.app/collections/python

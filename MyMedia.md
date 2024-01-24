@@ -16,3 +16,10 @@ The table below shows reccmmendations for books
 |2 States|A love story about a couple from different states in India, dealing with the complexities|Chetan Bhagat|
 |The Inheritance of Loss|A novel that intertwines the stories of characters in India and the United States, addressing themes of identity and the impact of globalization|Kiran Desai|
 |The White Tiger|A darkly humorous and thought-provoking novel|Aravind Adiga|
+
+---
+
+### Favorite Quotes
+>You have within you right now, everything you need to deal with whatever the world can throw at you - *Vikas swarup*
+>
+>Your time is limited, don't waste it living someone else's life - *steve jobs*

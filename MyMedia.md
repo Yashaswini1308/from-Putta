@@ -20,9 +20,9 @@ The table below shows reccmmendations for books
 ---
 
 ### Favorite Quotes
->You have within you right now, everything you need to deal with whatever the world can throw at you - *Vikas swarup*
+>"You have within you right now, everything you need to deal with whatever the world can throw at you" - *Vikas swarup*
 >
->Your time is limited, don't waste it living someone else's life - *steve jobs*
+>"Your time is limited, don't waste it living someone else's life" - *steve jobs*
 
 ---
 ### Code Fencing
